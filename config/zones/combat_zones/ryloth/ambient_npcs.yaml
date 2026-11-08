@@ -57,6 +57,7 @@ ryloth:
       clickable: false
       enable_interact_popup: false
     jedi_gear_vendor:
+      key: jedi_gear_vendor
       model_id: 891
       name_id: 16681
       sub_title_id: 16682
@@ -71,10 +72,12 @@ ryloth:
         y: 0
         z: -0.83798575
         w: 0
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
+      cursor: 53
+      one_shot_interaction:
+        dialog_option_key: Jedi Gear Vendor
+        duration_millis: 1
     clone_gear_vendor:
+      key: clone_gear_vendor
       model_id: 891
       name_id: 16675
       sub_title_id: 16676
@@ -89,9 +92,10 @@ ryloth:
         y: 0
         z: -0.77535355
         w: 0
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
+      cursor: 53
+      one_shot_interaction:
+        dialog_option_key: Clone Gear Vendor
+        duration_millis: 1
     arc_trooper_2:
       model_id: 1397
       show_name: false

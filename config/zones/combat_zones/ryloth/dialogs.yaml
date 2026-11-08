@@ -1,0 +1,32 @@
+---
+ryloth:
+  dialog_choices:
+    - button_key: Jedi Gear Vendor
+      npc_key: jedi_gear_vendor
+      new_dialog:
+        dialog_message_id: 16683
+        camera_placement:
+          x: 546.1859
+          y: 11.761304
+          z: 630.4356
+          w: 1
+        look_at:
+          x: 544.8762
+          y: 11.761304
+          z: 632.44684
+          w: 1
+
+    - button_key: Clone Gear Vendor
+      npc_key: clone_gear_vendor
+      new_dialog:
+        dialog_message_id: 16679
+        camera_placement:
+          x: 541.8104
+          y: 11.761304
+          z: 626.3642
+          w: 1
+        look_at:
+          x: 540.2947
+          y: 11.761304
+          z: 628.225
+          w: 1
