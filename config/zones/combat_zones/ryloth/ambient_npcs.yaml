@@ -58,7 +58,9 @@ ryloth:
       enable_interact_popup: false
     jedi_gear_vendor:
       model_id: 891
-      show_name: false
+      name_id: 16681
+      sub_title_id: 16682
+      scale: 1.2
       pos:
         x: 544.8762
         y: 9.821304
@@ -72,22 +74,11 @@ ryloth:
       cursor: 54
       clickable: false
       enable_interact_popup: false
-      tickable_procedures:
-        stand_and_fidget:
-          steps:
-            - animation_id: 1
-              min_duration_millis: 6000
-            - animation_id: 21
-              min_duration_millis: 3000
-            - animation_id: 25
-              min_duration_millis: 6000
-            - animation_id: 22
-              min_duration_millis: 3000
-            - animation_id: 26
-              min_duration_millis: 5000
     clone_gear_vendor:
       model_id: 891
-      show_name: false
+      name_id: 16675
+      sub_title_id: 16676
+      scale: 1.2
       pos:
         x: 540.2947
         y: 9.821304
@@ -101,19 +92,6 @@ ryloth:
       cursor: 54
       clickable: false
       enable_interact_popup: false
-      tickable_procedures:
-        stand_and_fidget:
-          steps:
-            - animation_id: 25
-              min_duration_millis: 4000
-            - animation_id: 22
-              min_duration_millis: 3000
-            - animation_id: 1
-              min_duration_millis: 7000
-            - animation_id: 21
-              min_duration_millis: 3000
-            - animation_id: 26
-              min_duration_millis: 6000
     arc_trooper_2:
       model_id: 1397
       show_name: false
@@ -256,7 +234,6 @@ ryloth:
         y: 0
         z: -0.71352404
         w: 0
-      stand_animation_id: 2505
       cursor: 54
       clickable: false
       enable_interact_popup: false
