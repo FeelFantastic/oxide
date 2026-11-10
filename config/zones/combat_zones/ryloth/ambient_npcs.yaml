@@ -83,14 +83,14 @@ ryloth:
       sub_title_id: 16676
       scale: 1.2
       pos:
-        x: 540.2947
+        x: 541.8144
         y: 9.821304
-        z: 628.225
+        z: 629.4775
         w: 1
       rot:
-        x: 0.6315274
+        x: 0.5834475
         y: 0
-        z: -0.77535355
+        z: -0.8121509
         w: 0
       cursor: 53
       one_shot_interaction:

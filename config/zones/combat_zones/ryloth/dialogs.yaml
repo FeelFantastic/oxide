@@ -21,12 +21,12 @@ ryloth:
       new_dialog:
         dialog_message_id: 16679
         camera_placement:
-          x: 541.8104
+          x: 543.2147
           y: 11.761304
-          z: 626.3642
+          z: 627.5283
           w: 1
         look_at:
-          x: 540.2947
+          x: 541.8144
           y: 11.761304
-          z: 628.225
+          z: 629.4775
           w: 1
