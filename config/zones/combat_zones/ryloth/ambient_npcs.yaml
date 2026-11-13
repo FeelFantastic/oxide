@@ -3,7 +3,6 @@ ryloth:
   ambient_npcs:
     arf_arc_1:
       model_id: 1336
-      show_name: false
       pos:
         x: 573.0281
         y: 9.831306
@@ -14,9 +13,6 @@ ryloth:
         y: 0
         z: -0.49943528
         w: 0
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
       tickable_procedures:
         holoprojector_call:
           steps:
@@ -36,12 +32,8 @@ ryloth:
         y: 0
         z: -0.6633247
         w: 0
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
     arc_trooper_1:
       model_id: 1397
-      show_name: false
       pos:
         x: 549.1147
         y: 9.821304
@@ -53,9 +45,7 @@ ryloth:
         z: -0.7989985
         w: 0
       stand_animation_id: 1607
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
+      hostility: Friendly
     jedi_gear_vendor:
       key: jedi_gear_vendor
       model_id: 891
@@ -98,7 +88,6 @@ ryloth:
         duration_millis: 1
     arc_trooper_2:
       model_id: 1397
-      show_name: false
       pos:
         x: 532.8729
         y: 9.591429
@@ -110,12 +99,9 @@ ryloth:
         z: -0.96886885
         w: 0
       stand_animation_id: 1607
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
+      hostility: Friendly
     arc_trooper_3:
       model_id: 1397
-      show_name: false
       pos:
         x: 551.2017
         y: 9.707989
@@ -127,12 +113,9 @@ ryloth:
         z: 0.054255884
         w: 0
       stand_animation_id: 1607
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
+      hostility: Friendly
     arc_trooper_4:
       model_id: 1397
-      show_name: false
       pos:
         x: 522.92926
         y: 3.599029
@@ -144,12 +127,9 @@ ryloth:
         z: 0.6893929
         w: 0
       stand_animation_id: 1607
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
+      hostility: Friendly
     arc_trooper_5:
       model_id: 1397
-      show_name: false
       pos:
         x: 507.05252
         y: 3.9232383
@@ -161,9 +141,7 @@ ryloth:
         z: -0.47580203
         w: 0
       stand_animation_id: 1607
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
+      hostility: Friendly
     obi_wan_kenobi:
       model_id: 105
       name_id: 31945
@@ -178,9 +156,6 @@ ryloth:
         z: -0.529502
         w: 0
       stand_animation_id: 2201
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
     anakin_skywalker:
       model_id: 52
       name_id: 31927
@@ -194,9 +169,6 @@ ryloth:
         y: 0
         z: -0.05636826
         w: 0
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
     r2_d2:
       model_id: 31
       name_id: 2482
@@ -210,9 +182,6 @@ ryloth:
         y: 0
         z: 0.9876824
         w: 0
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
       tickable_procedures:
         roll_around:
           steps:
@@ -238,12 +207,8 @@ ryloth:
         y: 0
         z: -0.71352404
         w: 0
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
     arc_trooper_6:
       model_id: 1397
-      show_name: false
       pos:
         x: 390.75125
         y: 5.533417
@@ -255,12 +220,9 @@ ryloth:
         z: 0.675363
         w: 0
       stand_animation_id: 1607
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
+      hostility: Friendly
     arc_trooper_7:
       model_id: 1397
-      show_name: false
       pos:
         x: 390.8172
         y: 5.499522
@@ -272,12 +234,9 @@ ryloth:
         z: 0.71319413
         w: 0
       stand_animation_id: 1607
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
+      hostility: Friendly
     arc_trooper_8:
       model_id: 1397
-      show_name: false
       pos:
         x: 393.0939
         y: 5.5854807
@@ -289,12 +248,9 @@ ryloth:
         z: 0.8613044
         w: 0
       stand_animation_id: 1607
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
+      hostility: Friendly
     arc_trooper_9:
       model_id: 1397
-      show_name: false
       pos:
         x: 393.4288
         y: 5.5765495
@@ -306,12 +262,9 @@ ryloth:
         z: 0.815326
         w: 0
       stand_animation_id: 1607
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
+      hostility: Friendly
     arc_trooper_10:
       model_id: 1397
-      show_name: false
       pos:
         x: 395.3909
         y: 5.6957345
@@ -323,12 +276,9 @@ ryloth:
         z: 0.8470603
         w: 0
       stand_animation_id: 1607
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
+      hostility: Friendly
     twilek_jedi:
       model_id: 2014
-      show_name: false
       pos:
         x: 394.48788
         y: 5.6139607
@@ -339,9 +289,6 @@ ryloth:
         y: 0
         z: -0.87700105
         w: 0
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
       tickable_procedures:
         brief_arc_squad:
           steps:
@@ -352,7 +299,6 @@ ryloth:
             - min_duration_millis: 3000
     phase1_clone_2:
       model_id: 624
-      show_name: false
       pos:
         x: 584.4494
         y: 10.01764
@@ -363,12 +309,8 @@ ryloth:
         y: 0
         z: 0.98755527
         w: 0
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
     clone_nohelmet_2:
       model_id: 2032
-      show_name: false
       pos:
         x: 585.8355
         y: 10.01764
@@ -380,12 +322,8 @@ ryloth:
         z: 0.33033422
         w: 0
       stand_animation_id: 2600
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
     walking_clone_1:
       model_id: 2032
-      show_name: false
       pos:
         x: 597.606
         y: 9.930433
@@ -396,9 +334,6 @@ ryloth:
         y: 0
         z: -0.6575
         w: 0
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
       tickable_procedures:
         walk_back_and_forth:
           steps:
@@ -432,7 +367,6 @@ ryloth:
               min_duration_millis: 2500
     arf_arc_2:
       model_id: 1336
-      show_name: false
       pos:
         x: 413.3032
         y: 2.4760234
@@ -443,9 +377,6 @@ ryloth:
         y: 0
         z: 0.9798071
         w: 0
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
       tickable_procedures:
         holoprojector_call:
           steps:
@@ -454,7 +385,6 @@ ryloth:
             - min_duration_millis: 2000
     running_arc_trooper_1:
       model_id: 1397
-      show_name: false
       pos:
         x: 548.44763
         y: 9.821304
@@ -466,9 +396,6 @@ ryloth:
         z: -0.80778
         w: 0
       stand_animation_id: 1607
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
       tickable_procedures:
         run_back_and_forth:
           steps:
@@ -502,7 +429,6 @@ ryloth:
               min_duration_millis: 3000
     phase1_clone_1:
       model_id: 624
-      show_name: false
       pos:
         x: 592.0322
         y: 9.930433
@@ -513,12 +439,8 @@ ryloth:
         y: 0
         z: -0.75408643
         w: 0
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
     arc_trooper_11:
       model_id: 1397
-      show_name: false
       pos:
         x: 497.91107
         y: 1.8684169
@@ -530,12 +452,9 @@ ryloth:
         z: -0.2889074
         w: 0
       stand_animation_id: 1607
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
+      hostility: Friendly
     arc_trooper_12:
       model_id: 1397
-      show_name: false
       pos:
         x: 425.243
         y: 2.4922397
@@ -547,12 +466,9 @@ ryloth:
         z: 0.9876735
         w: 0
       stand_animation_id: 1607
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
+      hostility: Friendly
     arc_trooper_13:
       model_id: 1397
-      show_name: false
       pos:
         x: 412.7435
         y: 2.719603
@@ -564,12 +480,9 @@ ryloth:
         z: 0.9320507
         w: 0
       stand_animation_id: 1607
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
+      hostility: Friendly
     arc_trooper_14:
       model_id: 1397
-      show_name: false
       pos:
         x: 404.31036
         y: 1.1948254
@@ -581,12 +494,9 @@ ryloth:
         z: 0.8604331
         w: 0
       stand_animation_id: 1607
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
+      hostility: Friendly
     arc_trooper_15:
       model_id: 1397
-      show_name: false
       pos:
         x: 393.37753
         y: 4.9497747
@@ -598,12 +508,9 @@ ryloth:
         z: 0.90954536
         w: 0
       stand_animation_id: 1607
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
+      hostility: Friendly
     snow_clone_nohelmet_1:
       model_id: 1877
-      show_name: false
       pos:
         x: 601.83215
         y: 9.930433
@@ -615,12 +522,8 @@ ryloth:
         z: 0.6462496
         w: 0
       stand_animation_id: 2599
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
     zabrak_jedi_white_1:
       model_id: 2016
-      show_name: false
       pos:
         x: 601.7456
         y: 9.930433
@@ -631,12 +534,8 @@ ryloth:
         y: 0
         z: -0.83970386
         w: 0
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
     phase1_clone_nohelmet_1:
       model_id: 2032
-      show_name: false
       pos:
         x: 604.4867
         y: 10.017641
@@ -647,12 +546,8 @@ ryloth:
         y: 0
         z: -0.720324
         w: 0
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
     phase1_clone_nohelmet_2:
       model_id: 2032
-      show_name: false
       pos:
         x: 600.67145
         y: 10.017641
@@ -664,12 +559,8 @@ ryloth:
         z: -0.9213548
         w: 0
       stand_animation_id: 2600
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
     phase1_clone_3:
       model_id: 624
-      show_name: false
       pos:
         x: 598.60754
         y: 10.017641
@@ -680,12 +571,8 @@ ryloth:
         y: 0
         z: -0.4226509
         w: 0
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
     clone_officer_1:
       model_id: 1267
-      show_name: false
       pos:
         x: 595.1935
         y: 9.930433
@@ -696,6 +583,3 @@ ryloth:
         y: 0
         z: -0.8244662
         w: 0
-      cursor: 54
-      clickable: false
-      enable_interact_popup: false
